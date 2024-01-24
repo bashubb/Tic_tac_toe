@@ -197,7 +197,8 @@ def display_hello():
     print()
     rprint(Panel.fit(f'''[red]{hello_instructions} [/red]
                     [bold red]Hello![/bold red]
-                    [italic]This is a game of tic-tac-toe. I invite you to play a game between me - the computer and you - the human.
+                    [italic]This is a game of tic-tac-toe. I invite you to play a game between 
+                    me - the computer and you - the human.
                     Your move will be indicated by selecting a field number on the board,
                     which looks like this:[/italic]
 
